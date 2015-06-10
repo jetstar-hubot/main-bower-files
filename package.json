@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/ck86/main-bower-files.git"
+    "url": "git://github.com/jetstar-hubot/main-bower-files.git"
   },
   "keywords": [
     "bower",
@@ -16,12 +16,12 @@
     "gulpfriendly",
     "gruntplugin"
   ],
-  "author": "Christopher Knötschke",
+  "author": "jetstar-hubot",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ck86/main-bower-files/issues"
+    "url": "https://github.com/jetstar-hubot/main-bower-files/issues"
   },
-  "homepage": "https://github.com/ck86/main-bower-files",
+  "homepage": "https://github.com/jetstar-hubot/main-bower-files",
   "dependencies": {
     "colors": "^0.6.2",
     "glob": "^4.0.3",
